@@ -19,10 +19,11 @@ This project analyzes sales data from a CSV file using **Python** and **Pandas**
 
 ```bash
 pip install pandas matplotlib
-
+```
 3.Run the analysis script:
+```bash
 python analysis.py
-
+```
 4.The script will display charts and save two CSV files:
-product_sales.csv
-region_sales.csv
+ * product_sales.csv
+ * region_sales.csv
